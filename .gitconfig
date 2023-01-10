@@ -1,0 +1,6 @@
+[user]
+    name = Louis Genestier
+    email = louis.genestier@gmail.com
+[push]
+    autoSetupRemote = true
+    default = current
