@@ -5,6 +5,7 @@ compinit
 source "$HOME/.zsh/spaceship/spaceship.zsh"
 
 # Aliases
+alias ..="cd .."
 alias ll="ls --color -l -h"
 alias vsc="code ."
 alias hg="history | grep"
